@@ -8,11 +8,11 @@ patch:
         patched: '2020-03-17T11:54:40.087Z'
   'npm:debug:20170905':
     - tap > tap-mocha-reporter > debug:
-        patched: '2020-03-17T11:58:06.549Z'
+        patched: '2020-03-17T12:00:45.357Z'
     - snyk > proxy-agent > pac-proxy-agent > get-uri > debug:
-        patched: '2020-03-17T11:58:06.549Z'
+        patched: '2020-03-17T12:00:45.357Z'
   'npm:ms:20170412':
     - tap > tap-mocha-reporter > debug > ms:
-        patched: '2020-03-17T11:58:06.549Z'
+        patched: '2020-03-17T12:00:45.357Z'
     - snyk > proxy-agent > pac-proxy-agent > get-uri > debug > ms:
-        patched: '2020-03-17T11:58:06.549Z'
+        patched: '2020-03-17T12:00:45.357Z'
